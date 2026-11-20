@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3272390082095693374}
   - component: {fileID: 8983088340564164621}
   m_Layer: 0
-  m_Name: Magnet block
+  m_Name: Magnetfield
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
